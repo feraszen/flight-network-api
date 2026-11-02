@@ -535,4 +535,3 @@ https://github.com/feraszen/flight-network-api.git
 # Team
 
 - Feras Zen Alabdeen
-- Darrell Declaro
